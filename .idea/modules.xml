@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/operatorNorm.iml" filepath="$PROJECT_DIR$/operatorNorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/operatorNorm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/operatorNorm_main.iml" group="operatorNorm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/operatorNorm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/operatorNorm_test.iml" group="operatorNorm" />
+    </modules>
+  </component>
+</project>
